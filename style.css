@@ -1,0 +1,30 @@
+body {
+  background-color: rgb(226, 219, 211);
+}
+
+h1 {
+  color: rgba(81, 0, 0, 0.612);
+  background-color: rgb(255, 45, 45);
+}
+
+#home {
+  background-color: white;
+}
+
+ul {
+  text-decoration: underline;
+  color: green;
+}
+
+#about {
+  background-color: white;
+}
+
+#contact {
+  background-color: white;
+}
+
+#inner-text {
+  color: rgb(150, 66, 10);
+  background-color: rgb(255, 255, 255);
+}
